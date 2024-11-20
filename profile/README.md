@@ -42,10 +42,19 @@ Visit the [Getting Started Guide](https://cloudcents.ai) for step-by-step instru
 
 ---
 
-## 🔧 **Technologies**
-- **FastAPI**: API backend for scalable and secure operations.  
-- **Hugging Face**: Custom fine-tuned LLM for cloud-specific queries.  
-- **Terraform & Kubernetes**: Optimized infrastructure for deployment.  
+### 🔧 **Tech Stack**
+
+<p >
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HuggingFace-%23FF9900.svg?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Neon-3FA9F5?style=for-the-badge&logo=postgresql&logoColor=white" alt="Neon" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render.com" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
 
 ---
 
