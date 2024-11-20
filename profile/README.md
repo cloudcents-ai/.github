@@ -1,15 +1,12 @@
 # 🌩️ **CloudCents AI**  
 **Empower your business with smarter cloud management tools powered by AI.**  
 
-<p align="center">
-  <a href="https://www.youtube.com/@cloudcents-ai"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel"></a>
-  <a href="https://www.twitch.tv/majesticcodingtwitch"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Channel"></a>
-  <a href="https://www.linkedin.com/company/cloudcents-ai/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  </a>
-  <a href="https://majesticcoding.com/download-resume-pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume-Download-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
-</p>
+## 📖 [**Visit Full Documentation**](https://cloudcents.ai/docs)  
 
-📖 [**Visit Full Documentation**](https://cloudcents.ai/docs)  
+<a href="https://www.youtube.com/@cloudcents-ai"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel"></a>
+<a href="https://www.twitch.tv/majesticcodingtwitch"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Channel"></a>
+<a href="https://www.linkedin.com/company/cloudcents-ai/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</a>
 
 ---
 
